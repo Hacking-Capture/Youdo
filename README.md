@@ -10,5 +10,18 @@
 -> Update note     
 -> Delete note     
   
+ Using Technologies
+ 
+ nodejs(express framework)
+ mongodb database
+ handlebars
+ 
+Html5
+bootstrap
+css
+javascript
+
+
+ 
 
 
