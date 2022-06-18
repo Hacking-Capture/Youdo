@@ -2,7 +2,7 @@
 
 ## Youdo
 
-#### fuctions 
+#### Fuctions 
 
 -> signup user                         
 -> Login user         
