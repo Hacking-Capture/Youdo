@@ -4,8 +4,8 @@
 
 #### Features include:
 
--> signup user                         
--> Login user         
+-> User authentication.
+-> Encrypted password of users.                             
 -> Create a note          
 -> Update note     
 -> Delete note     
