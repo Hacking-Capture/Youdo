@@ -2,7 +2,7 @@
 
 ## Youdo
 
-#### Fuctions 
+#### Features include:
 
 -> signup user                         
 -> Login user         
